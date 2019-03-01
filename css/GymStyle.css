@@ -1,0 +1,27 @@
+body{
+    background: url(../images/bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Allerta Stencil', sans-serif;
+    opacity: 80%;
+}
+
+div{
+    background-color: transparent;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 30px;
+    color: azure;
+    font-size: 3em;
+    
+}
+
+button{
+    background: #E6DDB3;
+    font-size: .5em;
+}
+
+h1{
+    font-size: 3em;
+}
